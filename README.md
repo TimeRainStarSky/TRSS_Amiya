@@ -28,7 +28,7 @@
 bash <(curl -L https://gitee.com/TimeRainStarSky/TRSS_Amiya/raw/main/Install.sh)
 ```
 
-3. 启动：`tsly`
+3. 启动：`tsai`
 
 视频教程：<https://bilibili.com/av983453309>
 
