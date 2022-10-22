@@ -33,7 +33,7 @@ docker run -itPd
   -v ~/TRSS_Amiya:/root/TRSS_Amiya #数据映射
   --restart=always #自启动
   -p 2536:80 #端口映射
-  trss:liteyuki
+  trss:amiya
 ```
 
 ## 常见问题
