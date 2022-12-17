@@ -34,7 +34,7 @@ docker run -itPd
   -h TRSS-Amiya #主机名
   --name TRSS_Amiya #容器名
   -v ~/TRSS_Amiya:/root/TRSS_Amiya #数据映射
-  --restart=always #自启动
+  --restart always #自启动
   -p 2536:80 #端口映射
   trss:amiya
 ```
